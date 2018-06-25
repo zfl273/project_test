@@ -9,3 +9,4 @@ def add_fun(num=0,*args):
 
 num3 = 4
 add_fun(1,2,3,4,5)
+num4 = 4
